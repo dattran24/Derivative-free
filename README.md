@@ -2,9 +2,7 @@
 
 This package provides the numerical experiments presented in the paper:
 
-**PD Khanh, BS Mordukhovich, DB Tran**  
-"Globally Convergent Derivative-Free Methods in Nonconvex Optimization with and without Noise"  
-[Optimization Online Link](https://optimization-online.org/?p=26889)
+**PD Khanh, BS Mordukhovich, DB Tran** "Globally Convergent Derivative-Free Methods in Nonconvex Optimization with and without Noise"  [Link](https://optimization-online.org/?p=26889)
 
 ---
 
