@@ -10,7 +10,7 @@ This package provides the numerical experiments presented in the paper:
 
 To run the experiments, please install PyCUTEst in advance. Installation instructions can be found [here](https://jfowkes.github.io/pycutest/_build/html/index.html).
 
-**Note:** Since CUTEst is currently available only on macOS and Linux, Windows users are recommended to install the Windows Subsystem for Linux (WSL). Detailed instructions for WSL installation are available [here](https://learn.microsoft.com/en-us/windows/wsl/install).
+**Note:** Since PyCUTEst is currently available only on macOS and Linux, Windows users are recommended to install the Windows Subsystem for Linux (WSL). Detailed instructions for WSL installation are available [here](https://learn.microsoft.com/en-us/windows/wsl/install).
 
 ---
 
