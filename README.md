@@ -1,4 +1,4 @@
-# Numerical Experiments for Globally Convergent Derivative-Free Methods in Nonconvex Optimization
+# Derivative-Free Methods for Smooth Functions
 
 This package provides the numerical experiments presented in the paper:
 
