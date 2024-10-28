@@ -16,7 +16,7 @@ To run the experiments, please install PyCUTEst in advance. Installation instruc
 
 ## II. Numerical Experiments
 
-This repository includes Jupyter notebooks for the following experiments:
+This repository includes Jupyter notebooks for the following experiments in paper [Link](https://optimization-online.org/?p=26889):
 
 - **`exp_fig2.ipynb`** - Experiment presented in Figure 2
 - **`exp_C1L.ipynb`** - Experiment for C1L functions presented in Subsection 6.1.1
